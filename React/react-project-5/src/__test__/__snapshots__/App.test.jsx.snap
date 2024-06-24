@@ -1,0 +1,63 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`App > should render users 1`] = `
+<div>
+  <div>
+    <br />
+    <button>
+      Click me toggle
+    </button>
+    <div>
+      <div>
+        <span>
+          Container
+        </span>
+      </div>
+      <div>
+        Display Name:
+      </div>
+      <div>
+        ID: 
+      </div>
+      <div>
+        Email: 
+      </div>
+      <div>
+        Username: 
+      </div>
+      <div>
+        <div>
+          <h3>
+            Post Content
+          </h3>
+          <br />
+          <div>
+            <div>
+              <div>
+                <span>
+                  PostContentButton
+                </span>
+              </div>
+              <br />
+              <label
+                for="UpdateName"
+              >
+                Update Name:
+              </label>
+              <input
+                id="UpdateName"
+                type="text"
+                value=""
+              />
+              <button>
+                Update display name
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <br />
+    </div>
+  </div>
+</div>
+`;

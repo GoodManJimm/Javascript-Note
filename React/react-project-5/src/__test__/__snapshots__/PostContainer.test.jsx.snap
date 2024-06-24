@@ -1,0 +1,125 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`render context values > should display username 1`] = `
+<div>
+  <div>
+    <div>
+      <span>
+        Container
+      </span>
+    </div>
+    <div>
+      Display Name:
+      johnny
+    </div>
+    <div>
+      ID: 
+      1001
+    </div>
+    <div>
+      Email: 
+      johnny@gmail.com
+    </div>
+    <div>
+      Username: 
+      johnny
+    </div>
+    <div>
+      <div>
+        <h3>
+          Post Content
+        </h3>
+        <br />
+        <div>
+          johnny@gmail.com
+          <div>
+            <div>
+              <span>
+                PostContentButton
+              </span>
+            </div>
+            1001
+            <br />
+            <label
+              for="UpdateName"
+            >
+              Update Name:
+            </label>
+            <input
+              id="UpdateName"
+              type="text"
+              value=""
+            />
+            <button>
+              Update display name
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <br />
+  </div>
+</div>
+`;
+
+exports[`render context values > should match snap shot 1`] = `
+<div>
+  <div>
+    <div>
+      <span>
+        Container
+      </span>
+    </div>
+    <div>
+      Display Name:
+      johnny
+    </div>
+    <div>
+      ID: 
+      1001
+    </div>
+    <div>
+      Email: 
+      johnny@gmail.com
+    </div>
+    <div>
+      Username: 
+      johnny
+    </div>
+    <div>
+      <div>
+        <h3>
+          Post Content
+        </h3>
+        <br />
+        <div>
+          johnny@gmail.com
+          <div>
+            <div>
+              <span>
+                PostContentButton
+              </span>
+            </div>
+            1001
+            <br />
+            <label
+              for="UpdateName"
+            >
+              Update Name:
+            </label>
+            <input
+              id="UpdateName"
+              type="text"
+              value=""
+            />
+            <button>
+              Update display name
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <br />
+  </div>
+</div>
+`;

@@ -1,0 +1,5 @@
+body 
+{
+    background-image: url("Fly.jpeg");
+    background-size: cover; /* Ensures the image covers the whole background */
+}
